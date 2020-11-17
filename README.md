@@ -11,7 +11,7 @@ Główne menu gry jest przedstawione na rys. 1, dalej będziemy oznaczać je jak
 # Opis podmenu w grze 
 * <b>Podmenu Game:</b>
 
-Po naciśnięci opcji Game możemy wybrać:
+Po naciśnięciu opcji Game możemy wybrać:
 
 * Start,  
 * High Scores,  
