@@ -10,6 +10,7 @@ Główne menu gry jest przedstawione na rys. 1, dalej będziemy oznaczać je jak
 
 # Opis podmenu w grze 
 * <b>Podmenu Game:</b>
+
 Po naciśnięci opcji Game możemy wybrać:
 
 * Start,  
@@ -35,6 +36,7 @@ Opcja Main Menu zwraca użytkownika do menu głównego(ozn. A).
 Opcja How to Play? (rys. IX) w menu głównym zapoznaje użytkownika ze szczegółowymi zasadami gry oraz punktacją w grze Sokoban. 
 
 * <b>Podmenu Exit: </b>
+
 Opcja menu „Exit” kończy działanie programu. 
 
 # Szczegółowe zasady gry oraz punktacja: 
