@@ -8,7 +8,7 @@ W podstawowym oknie aplikacji gry `Sokoban` znajduje się menu wstępne z przeds
 
 Główne menu gry jest przedstawione na rys. 1, dalej będziemy oznaczać je jako A. 
 
-# Główne menu w grze 
+# Opis podmenu w grze 
 * <b>Podmenu Game:</b>
 Po naciśnięci opcji Game możemy wybrać:
 
