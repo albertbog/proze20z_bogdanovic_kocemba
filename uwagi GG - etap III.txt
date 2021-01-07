@@ -1,0 +1,24 @@
+
+Etap zaliczony, ale...
+
+NIE MA ANIMACJI!!! To co jest, to jest "przeskok" z jednego stanu/pozycji do innego.
+Przejście bohatera z jednego pola na inne ma być PŁYNNE!! 
+Pożądane by było również, aby przesuwanie "skrzynki" też było płynne.
+Płynne - widać 'stany' pośrednie, przejście z jednego pola do drugiego trwa pewien czas, 
+a w międzyczasie widać obiekt w pozycjach innych niż początkowa i końcowa.
+(jeśli to nie jest jeszcze do końca jasne, to zapraszam na konsultacje/rozmowę).
+
+Taka realizacja jak teraz w ogóle nie wymaga animacji - wystarczy reagowanie na zdarzenia i odświeżanie ekranu. 
+Animacja jest wtedy, gdy na ekranie "coś się rusza" bez działań użytkownika, czyli zdarzeń. 
+(Tzn. coś animację musi zapoczątkować, ale potem toczy się już sama aż do zakończenia; 
+w Sokobanie tym 'zapoczątkowaniem' jest naciśniecię klawisza, pododujące ruch na nową pozycję, 
+animacja zaś może się zakończyć po dotarciu obiektu do tej nowej pozycji.
+Ale można też sobie wyobrazić aminację "ciągłą" - przez cały czas grania, zapoczątkowaną na początku etapu i trwającą do jego ukończenia - 
+tyle tylko, że obiekty będą w większości wyświetlane cały czas w tej samej pozycji: ich prędkość będzie wynosiła 0, 
+naciśnięcie klawisza ustawi ją na wartość niezerową, a po dotarciu na miejsce docelowe znowu zostanie wyzerowana.)
+
+Należy porawić/uzupełnić na końcowe zaliczenie!!!
+
+Natomiast uwagi o migotaniu nie rozumiem - co ma migotać, jeśli wyświetlany jest statyczny obraz???
+
+I dziękuję za skrypty do kompilacji/uruchomienia :-)
