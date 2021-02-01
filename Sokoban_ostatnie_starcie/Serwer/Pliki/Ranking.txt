@@ -1,0 +1,10 @@
+Mariusz 130
+Dariusz 120
+Piotrek 100
+Pola 98
+Konrad 80
+Adrian 75
+Janusz 55
+Halina 50
+Marian 30
+Wiola 20

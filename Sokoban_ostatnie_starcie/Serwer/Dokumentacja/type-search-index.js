@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com","l":"Avatars"},{"p":"com","l":"ConfigLoader"},{"p":"com","l":"ConfigSaver"},{"p":"com","l":"Levels"},{"p":"com","l":"main"},{"p":"com","l":"Ranking.MyComparator"},{"p":"com","l":"MyThread"},{"p":"com","l":"Ranking"},{"p":"com","l":"Server"},{"p":"com","l":"ServerCommand"},{"p":"com","l":"Textures"}]

@@ -1,0 +1,1 @@
+java -classpath src com.sokoban.Main

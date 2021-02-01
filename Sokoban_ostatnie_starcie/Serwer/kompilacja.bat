@@ -1,0 +1,2 @@
+javac --release 8 src\com\main.java src\com\Server.java src\com\ConfigSaver.java src\com\ConfigLoader.java src\com\MyThread.java src\com\Avatars.java src\com\Levels.java src\com\Ranking.java src\com\ServerCommand.java src\com\Textures.java
+PAUSE
